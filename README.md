@@ -1,6 +1,6 @@
 ## Hi! You can call me Ian Coelho
 
-- 🌱 I’m currently learning front end tools, specifically react.js.
+- 🌱 I’m currently learning front end tools, specifically react.js and ui design
 - 👯 I’m looking to collaborate on any web development project. I will be glad to help.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🚢 Former deck officer, but I've always been passionate for tech 💻
