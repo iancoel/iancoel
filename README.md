@@ -1,7 +1,7 @@
 ## Hi! You can call me Ian Coelho
 
 - 🌱 I’m currently improving my skills in React Native and Node
-- 👯 I’m looking to collaborate on any web development project. I will be glad to help.
+- 👯 Currently working at Méliuz with Node, React Native, React and mySQL
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🚢 Former deck officer, but I've always been passionate for tech 💻
 
