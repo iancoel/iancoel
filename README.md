@@ -1,9 +1,10 @@
 ## Hi! You can call me Ian Coelho
 
+- 🚢 Graduated as a deck officer but software developer by choice 
+- 💻 Fullstack developer but my focus is in the front-end stacks
 - 🌱 I’m currently improving my skills in React Native and Node
-- 👯 Currently working at Méliuz with Node, React Native, React and mySQL
+- 👯 Currently working at Méliuz with React and React Native
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 🚢 Former deck officer, but I've always been passionate for tech 💻
 
 <div>
   <a href="https://github.com/iancoel">
