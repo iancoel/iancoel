@@ -2,7 +2,7 @@
 
 - 🚢 Graduated as a deck officer but software developer by choice 
 - 💻 Fullstack developer but my focus is in the front-end stacks
-- 🌱 I’m currently improving my skills in React Native and Node
+- 🌱 I’m currently improving my skills in Jest and TDD
 - 👯 Currently working at Méliuz with React and React Native
 - 😄 Pronouns: he/him
 
