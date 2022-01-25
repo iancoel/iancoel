@@ -1,10 +1,14 @@
-## Hi! You can call me Ian Coelho
+<img align="left" alt="Cartoons" height = "320" width="100%" src="https://i.imgur.com/rOhPXgA.png?1" style="margin-bottom: 20px">
 
-- 🚢 Graduated as a deck officer but software developer by choice 
+&nbsp;
+
+- 🚢 Graduated as a deck officer but studied software developer since I was a child 
 - 💻 Fullstack developer but my focus is in the front-end stacks
-- 🌱 I’m currently improving my skills in Jest and TDD
+- 🌱 I’m currently improving my skills in databases
 - 👯 Currently working at Méliuz with React and React Native
 - 😄 Pronouns: he/him
+
+&nbsp;
 
 <div>
   <a href="https://github.com/iancoel">
@@ -26,6 +30,8 @@
 <a href = "mailto:ian.coel@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a><br>
   <a href="https://www.linkedin.com/in/ian-coel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href=https://api.whatsapp.com/send?phone=5591992762735&text=Hello!%20I%20wanted%20to%20talk%20something... target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  &nbsp;
   
   ![Snake animation](https://github.com/iancoel/iancoel/blob/output/github-contribution-grid-snake.svg)
   
