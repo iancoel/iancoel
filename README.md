@@ -4,7 +4,7 @@
 
 - 🚢 Graduated as a deck officer but studied software developer since I was a child 
 - 💻 Fullstack developer but my focus is in the front-end stacks
-- 🌱 I’m currently improving my skills in databases
+- 🌱 I’m currently improving my skills in some backend stuff
 - 👯 Currently working at Méliuz with React and React Native
 - 😄 Pronouns: he/him
 
