@@ -1,11 +1,7 @@
-<img align="left" alt="Cartoons" height = "320" width="100%" src="https://i.imgur.com/rOhPXgA.png?1" style="margin-bottom: 20px">
-
-&nbsp;
-
+- 💻 Fullstack developer, eternal love for python and javascript (react & node)
 - 🚢 Graduated as a deck officer but studied software developer since I was a child 
-- 💻 Fullstack developer but my focus is in the front-end stacks
-- 🌱 I’m currently improving my skills in some backend stuff
-- 👯 Currently working at Méliuz with React and React Native
+- 🌱 I’m currently improving my skills learning things completely new to me, like golang
+- 👯 Currently working at Méliuz with React, Node and gRPC with Python
 - 😄 Pronouns: he/him
 
 &nbsp;
