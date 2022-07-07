@@ -1,5 +1,5 @@
 - 💻 Fullstack developer, eternal love for python and javascript (react & node)
-- 🚢 Graduated as a deck officer but studied software developer since I was a child 
+- 🚢 Graduated as a deck officer but studied software development since I was a child 
 - 🌱 I’m currently improving my skills learning things completely new to me, like golang
 - 👯 Currently working at Méliuz with React, Node and gRPC with Python
 - 😄 Pronouns: he/him
