@@ -50,7 +50,6 @@
   
   ##
 <br>
-<br>
   
 <div align="center"> 
   <a href="https://instagram.com/iannrabbit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -58,6 +57,7 @@
   <a href="https://www.linkedin.com/in/ian-coel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href=https://api.whatsapp.com/send?phone=5591992762735&text=Hello!%20I%20wanted%20to%20talk%20something... target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
+<br>
 <br>
   
 <div align="center" style="display: inline_block"><br>
