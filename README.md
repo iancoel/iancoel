@@ -75,11 +75,3 @@
   <a href=https://api.whatsapp.com/send?phone=5591992762735&text=Hello!%20I%20wanted%20to%20talk%20something... target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <br>
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Cartoons" height = "160" width="320" src="https://i.giphy.com/media/9gISqB3tncMmY/giphy.webp">
-</div>
-  
-  ![Snake animation](https://github.com/iancoel/iancoel/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
