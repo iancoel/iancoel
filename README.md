@@ -26,6 +26,16 @@
 <br>
 
 <div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=iancoel&column=4&theme=nord&margin-w=4&margin-h=4&no-frame=true&title=MultiLanguage,Commits,Repositories,PullRequest&no-bg=true">
+    <img 
+         src="https://github-profile-trophy.vercel.app/?username=iancoel&column=4&theme=nord&margin-w=4&margin-h=4&no-frame=true&title=MultiLanguage,Commits,Repositories,PullRequest&no-bg=true"
+         align="center"
+         title="iancoel's Trophies"
+         width="60%"
+    />
+  </a>
+  <br>
+  <br>
   <a href="https://github.com/iancoel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iancoel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <br>
