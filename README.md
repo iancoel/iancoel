@@ -30,7 +30,7 @@
     <img 
          src="https://github-profile-trophy.vercel.app/?username=iancoel&column=4&theme=nord&margin-w=4&margin-h=4&no-frame=true&title=MultiLanguage,Commits,Repositories,PullRequest&no-bg=true"
          align="center"
-         title="iancoel's Trophies"
+         title="if you are seeing this instead of the little trophies part, then something must be off and I will look at it soon ;)"
          width="60%"
     />
   </a>
