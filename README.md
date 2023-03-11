@@ -2,7 +2,7 @@
   - 💻 Fullstack developer, eternal love for python and javascript (react & node)
   <br>
   <br>
-  - 🚢 Graduated as a deck officer but studied software development since a long long time ago
+  - 🚢 Graduated as a deck officer but I've been studying software development since a long long time ago
   <br>
   <br>
   - 🌱 I’m currently improving my skills on things I use at work
